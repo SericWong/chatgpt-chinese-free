@@ -33,7 +33,7 @@
 |----------|----------|----------|----------|------------|----------|
 | [gpt 中文版](https://chat.aimirror123.com) | GPT-4o, GPT-4.1, GPT-o1, GPT-o3, o4, Claude, Gemini, Grok, DeepSeek | ✅ 免费试用 | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持GPT-4o多模态，内置MJ绘图，适合开发、创作与日常使用 |
 | [ai镜像站](https://www.chatgpt-mirrors.com/chatgpt) | GPT-4, GPT-4o, GPT-4.1, GPT-o1, o3, o4, AIPPT, Midjourney | ✅ 免费额度 | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 原版GPT-o1体验，支持AI插件与定制化助手，功能全面 |
-| [mygpt.bid](https://mygpt.bid/) | GPT-4, GPT-4o, o1, o3 | 注册赠送免费额度 | 邮箱注册 | ⭐⭐⭐⭐ | 界面简洁，响应速度快，适合快速体验 |
+| [snakegpt](https://chat.snakegpt.vip/chat) | GPT-4, GPT-4o, o1, o3 | 注册赠送免费额度 | 邮箱注册 | ⭐⭐⭐⭐ | 界面简洁，响应速度快，适合快速体验 |
 | [allyfy.chat](https://www.allyfy.chat/) | GPT-4, GPT-o1 | 每日5次免费 | 邮箱注册 | ⭐⭐⭐ | 轻量体验，适合初次接触AI的用户 |
 
 ---
